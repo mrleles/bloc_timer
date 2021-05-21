@@ -2,6 +2,8 @@
 
 An app with a timer to practice the use of Bloc Provider.
 
+https://www.linkedin.com/posts/mrleles_flutter-android-ios-activity-6801248488215654400-22Zw 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
