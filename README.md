@@ -1,6 +1,6 @@
 # bloc_timer
 
-A new Flutter project.
+An app with a timer to practice the use of Bloc Provider.
 
 ## Getting Started
 
